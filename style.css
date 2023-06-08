@@ -1,0 +1,25 @@
+* {
+    color:blue;
+}
+
+h1 {
+    color:black;
+    font-size: large; 
+    font-weight: 900;
+    
+}
+
+ .monkey{font-size: larger;
+font-weight: bolder;
+outline-style: double;
+outline-color: darkorchid;
+color:chartreuse}
+
+ #dave{font-size: larger; font-style: italic; border: 0ex;
+    border-color: brown; color: crimson;
+}
+
+ .coconuts{font-family: Verdana; color:black; border: black;padding: 0vmax;margin: 0vmax;}
+
+ .pics{object-fit: contain; border: 0cm;}
+
